@@ -1,0 +1,28 @@
+body{
+    background: linear-gradient(to right, #12375a, #6d487e);
+    font-size: 60px;
+    -webkit-colum-count: 3;
+    -moz-column-count: 3;
+    column-count: 3;
+}
+
+div{
+    color: #f1f1f1;
+    font-family: 'Segoe UI';
+    margin: 30px;
+    padding: 15px;
+}
+
+#parrafo1{
+    font-size: 2rem;
+}
+
+#parrafo2{
+    font-size: .5em;
+    
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}
